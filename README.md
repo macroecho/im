@@ -5,4 +5,4 @@
 详情地址：https://www.huzhan.com/code/goods358224.html
 
 
- ![Image text](cover.jpg) 
+ ![Image text](cover.jpg?raw=true) 
