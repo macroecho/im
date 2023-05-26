@@ -2,7 +2,6 @@
 /*
  * =================================================================
  * Copyright(c) 2020 KeiSoft,All Rights Reserved.
- * See more information,Please goto http://chat.keisoft.net
  * Author: macro
  * Date: 2020-04-15
  * Version: 6.0.0
